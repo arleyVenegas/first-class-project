@@ -16,16 +16,16 @@ body {
     color: #ffffff;
 }
 /*Stiles the h1 in the header*/
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 /*styles the seo class within the h1 header in the header class located in the header*/
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 /*styles the navigation bar in the header*/
-.header nav {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +33,11 @@ body {
     font-size: 20px;
 }
 /*Style the nav ul elements*/
-.header nav ul {
+header nav ul {
     list-style-type: none;
 }
 /*styles the listed elements*/
-.header nav ul li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
